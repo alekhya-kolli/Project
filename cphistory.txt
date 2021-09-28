@@ -1,24 +1,24 @@
-    1  2021-09-28 14:37:28 -  clear
-    2  2021-09-28 14:37:28 -  ls
-    3  2021-09-28 14:37:28 -  pwd
-    4  2021-09-28 14:37:28 -  cd
-    5  2021-09-28 14:37:28 -  ls
-    6  2021-09-28 14:37:28 -  mkdir project
-    7  2021-09-28 14:37:28 -  cd project
-    8  2021-09-28 14:37:28 -  nano guessinggame.sh
-    9  2021-09-28 14:37:28 -  source guessinggame.sh
-   10  2021-09-28 14:37:28 -  nano guessinggame.sh
-   11  2021-09-28 14:37:28 -  source guessinggame.sh
-   12  2021-09-28 14:37:28 -  nano guessinggame.sh
-   13  2021-09-28 14:37:28 -  source guessinggame.sh
-   14  2021-09-28 14:37:28 -  nano guessinggame.sh
-   15  2021-09-28 14:37:28 -  source guessinggame.sh
-   16  2021-09-28 14:37:28 -  5
-   17  2021-09-28 14:37:28 -  nano guessinggame.sh
-   18  2021-09-28 14:37:28 -  source guessinggame.sh
-   19  2021-09-28 14:37:28 -  nano guessinggame.sh
-   20  2021-09-28 14:37:28 -  source guessinggame.sh
-   21  2021-09-28 14:37:28 -  nano guessinggame.sh
+    1  2021-09-28 18:49:32 -  clear
+    2  2021-09-28 18:49:32 -  ls
+    3  2021-09-28 18:49:32 -  pwd
+    4  2021-09-28 18:49:32 -  cd
+    5  2021-09-28 18:49:32 -  ls
+    6  2021-09-28 18:49:32 -  mkdir project
+    7  2021-09-28 18:49:32 -  cd project
+    8  2021-09-28 18:49:32 -  nano guessinggame.sh
+    9  2021-09-28 18:49:32 -  source guessinggame.sh
+   10  2021-09-28 18:49:32 -  nano guessinggame.sh
+   11  2021-09-28 18:49:32 -  source guessinggame.sh
+   12  2021-09-28 18:49:32 -  nano guessinggame.sh
+   13  2021-09-28 18:49:32 -  source guessinggame.sh
+   14  2021-09-28 18:49:32 -  nano guessinggame.sh
+   15  2021-09-28 18:49:32 -  source guessinggame.sh
+   16  2021-09-28 18:49:32 -  5
+   17  2021-09-28 18:49:32 -  nano guessinggame.sh
+   18  2021-09-28 18:49:32 -  source guessinggame.sh
+   19  2021-09-28 18:49:32 -  nano guessinggame.sh
+   20  2021-09-28 18:49:32 -  source guessinggame.sh
+   21  2021-09-28 18:49:32 -  nano guessinggame.sh
    22  2021-09-27 16:20:12 -  source guessinggame.sh
    23  2021-09-27 16:20:27 -  cd project
    24  2021-09-27 16:20:29 -  source guessinggame.sh
@@ -714,17 +714,47 @@
   714  2021-09-28 17:50:07 -  make README.md
   715  2021-09-28 17:50:26 -  cat README.md
   716  2021-09-28 17:50:58 -  history 2
-  717  2021-09-28 17:51:14 -  history >> cphistory.txt
-  718  2021-09-28 17:51:28 -  history 5
-  719  2021-09-28 17:51:38 -  nano makefile
-  720  2021-09-28 17:52:24 -  make README.md
-  721  2021-09-28 17:52:29 -  cat README.md
-  722  2021-09-28 17:52:46 -  nano makefile
-  723  2021-09-28 17:53:00 -  make README.md
-  724  2021-09-28 17:53:12 -  cat README.md
-  725  2021-09-28 17:53:20 -  ls
-  726* 2021-09-28 17:53:28 -  
-  727  2021-09-28 17:53:34 -  rm README.md
-  728  2021-09-28 17:54:19 -  nano makefile
-  729  2021-09-28 17:54:47 -  make README.md
-  730  2021-09-28 17:55:09 -  history >> cphistory.txt
+  717  2021-09-28 17:51:28 -  history 5
+  718  2021-09-28 17:51:38 -  nano makefile
+  719  2021-09-28 17:52:24 -  make README.md
+  720  2021-09-28 17:52:29 -  cat README.md
+  721  2021-09-28 17:52:46 -  nano makefile
+  722  2021-09-28 17:53:00 -  make README.md
+  723  2021-09-28 17:53:12 -  cat README.md
+  724  2021-09-28 17:53:20 -  ls
+  725  2021-09-28 17:53:34 -  rm README.md
+  726  2021-09-28 17:54:19 -  nano makefile
+  727  2021-09-28 17:54:47 -  make README.md
+  728  2021-09-28 17:56:14 -  nano makefile
+  729  2021-09-28 17:57:12 -  make README.md
+  730  2021-09-28 17:57:26 -  cat README.md
+  731  2021-09-28 17:57:43 -  git add --all
+  732  2021-09-28 17:58:14 -  git commit -m "added project files to git hub"
+  733  2021-09-28 17:59:24 -  git remote add project https://github.com/alekhya-kolli/project.git
+  734  2021-09-28 17:59:30 -  git remote
+  735  2021-09-28 17:59:49 -  git push -u project master
+  736  2021-09-28 18:00:42 -  git branch
+  737  2021-09-28 18:01:28 -  cat README.md
+  738  2021-09-28 18:02:19 -  cd
+  739  2021-09-28 18:02:27 -  cd web-page
+  740  2021-09-28 18:03:15 -  cd alekhya-kolli.github.io
+  741  2021-09-28 18:04:00 -  git add --all
+  742  2021-09-28 18:04:20 -  git commit -m "added web page"
+  743  2021-09-28 18:04:40 -  git push -u origin master
+  744  2021-09-28 18:05:36 -  git push
+  745  2021-09-28 18:06:12 -  git push -u origin master
+  746  2021-09-28 18:06:57 -  clear
+  747  2021-09-28 18:07:13 -  git branch
+  748  2021-09-28 18:08:24 -  git push -u origin master
+  749  2021-09-28 18:11:26 -  cd
+  750  2021-09-28 18:11:33 -  cd work
+  751  2021-09-28 18:12:09 -  source guessinggame.sh
+  752  2021-09-28 18:13:23 -  nano guessinggame.sh
+  753  2021-09-28 18:17:26 -  source guessinggame.sh
+  754  2021-09-28 18:49:41 -  history 2
+  755  2021-09-28 18:49:44 -  export HISTTIMEFORMAT='%F %T -  '
+  756  2021-09-28 18:49:46 -  history 2
+  757  2021-09-28 18:49:52 -  cd work
+  758  2021-09-28 18:49:57 -  nano makefile
+  759  2021-09-28 18:50:21 -  make README.md
+  760  2021-09-28 18:50:36 -  history >> cphistory.txt

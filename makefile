@@ -8,9 +8,9 @@ README.md: cphistory.txt
 
 	echo "The date and time at which make was run: " >> README.md
 	echo "	" >> README.md
-	sed -n 728p cphistory.txt >> README.md
+	sed -n 758p cphistory.txt >> README.md
 	echo "	" >> README.md
-	sed -n 729p cphistory.txt >> README.md
+	sed -n 759p cphistory.txt >> README.md
 
 	echo "	" >> README.md
 	echo "---------" >> README.md
