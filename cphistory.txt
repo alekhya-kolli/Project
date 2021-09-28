@@ -680,3 +680,51 @@
   680  2021-09-28 14:39:06 -  cat README.md
   681  2021-09-28 14:40:05 -  history 10
   682  2021-09-28 14:41:57 -  history >> cphistory.txt
+  683  2021-09-28 14:42:14 -  nano makefile
+  684  2021-09-28 14:42:40 -  make README.md
+  685  2021-09-28 14:42:48 -  cat README.md
+  686  2021-09-28 14:43:35 -  git init
+  687  2021-09-28 14:43:46 -  git remote add origin https://github.com/alekhya-kolli/project.git
+  688  2021-09-28 14:43:50 -  git remote
+  689  2021-09-28 14:43:55 -  git add --all
+  690  2021-09-28 14:44:14 -  git commit -m "added project to github"
+  691  2021-09-28 14:44:40 -  git push -u origin master
+  692  2021-09-28 14:46:58 -  cd
+  693  2021-09-28 14:47:04 -  ls
+  694  2021-09-28 14:47:12 -  cd web-page
+  695  2021-09-28 14:48:13 -  git add --all
+  696  2021-09-28 14:49:24 -  cd alekhya-kolli.github.io
+  697  2021-09-28 14:49:27 -  git add --all
+  698  2021-09-28 14:49:43 -  git commit -m "added README.md"
+  699  2021-09-28 14:49:55 -  git push -u origin master
+  700  2021-09-28 17:41:04 -  cd
+  701  2021-09-28 17:41:16 -  ls
+  702  2021-09-28 17:41:23 -  cd work
+  703  2021-09-28 17:41:34 -  nano makefile
+  704  2021-09-28 17:42:44 -  make README.md
+  705  2021-09-28 17:42:56 -  cat README.md
+  706  2021-09-28 17:44:10 -  nano makefile
+  707  2021-09-28 17:46:13 -  make
+  708  2021-09-28 17:46:24 -  make README.md
+  709  2021-09-28 17:46:29 -  cat README.md
+  710  2021-09-28 17:46:53 -  ls
+  711  2021-09-28 17:47:14 -  rm makefile
+  712  2021-09-28 17:47:30 -  rm *.md
+  713  2021-09-28 17:48:18 -  nano makefile
+  714  2021-09-28 17:50:07 -  make README.md
+  715  2021-09-28 17:50:26 -  cat README.md
+  716  2021-09-28 17:50:58 -  history 2
+  717  2021-09-28 17:51:14 -  history >> cphistory.txt
+  718  2021-09-28 17:51:28 -  history 5
+  719  2021-09-28 17:51:38 -  nano makefile
+  720  2021-09-28 17:52:24 -  make README.md
+  721  2021-09-28 17:52:29 -  cat README.md
+  722  2021-09-28 17:52:46 -  nano makefile
+  723  2021-09-28 17:53:00 -  make README.md
+  724  2021-09-28 17:53:12 -  cat README.md
+  725  2021-09-28 17:53:20 -  ls
+  726* 2021-09-28 17:53:28 -  
+  727  2021-09-28 17:53:34 -  rm README.md
+  728  2021-09-28 17:54:19 -  nano makefile
+  729  2021-09-28 17:54:47 -  make README.md
+  730  2021-09-28 17:55:09 -  history >> cphistory.txt
